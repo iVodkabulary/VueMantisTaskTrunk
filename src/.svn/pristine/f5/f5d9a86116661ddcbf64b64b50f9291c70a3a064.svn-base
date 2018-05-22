@@ -1,0 +1,32 @@
+npm install lodash --save
+npm install moment --save
+npm install axios --save
+npm install jquery --save
+npm install signalr --save
+npm install sass-loader node-sass style-loader --save
+npm install element-ui --save
+npm install fullcalendar --save
+npm install vue-fullcalendar --save
+npm install vue-i18n --save
+npm install vue-froala-wysiwyg --save
+npm install vue-moment --save
+npm install vue-slick --save
+//jsx syntax
+npm install babel-plugin-syntax-jsx babel-plugin-transform-vue-jsx babel-helper-vue-jsx-merge-props babel-preset-env --save-dev
+
+npm install --save vue2-highcharts
+
+npm install vue-kanban --save
+npm install dragula --save
+npm install vuex --save
+npm install element-tree-grid --save
+npm i vue-table-with-tree-grid -S
+npm install vee-validate --save
+npm i --save v-infinite-scroll - https://www.npmjs.com/package/v-infinite-scroll
+npm install vue-sortable-tree --save
+npm install vue-data-tables -- save
+npm install xlsx --save
+npm install --save vue-dragula
+npm install numeral --save
+npm i -S vue2-datatable-component - https://github.com/OneWayTech/vue2-datatable
+npm install vue-dragscroll --save - https://www.npmjs.com/package/vue-dragscroll
